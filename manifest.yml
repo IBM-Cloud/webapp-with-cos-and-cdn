@@ -1,0 +1,8 @@
+---
+applications:
+- instances: 1
+  name: webapp-with-cos-and-cdn
+  memory: 256M
+  random-route: true
+  env:
+    CDN_CNAME: CHANGEME.cdnedge.bluemix.net

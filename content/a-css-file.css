@@ -1,0 +1,18 @@
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 20px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+.section-content {
+  text-align: center;
+}

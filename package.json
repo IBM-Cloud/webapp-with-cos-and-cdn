@@ -1,0 +1,17 @@
+{
+  "name": "webapp-with-cos-and-cdn",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "engines": {
+    "node": "^6.9.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+  }
+}
